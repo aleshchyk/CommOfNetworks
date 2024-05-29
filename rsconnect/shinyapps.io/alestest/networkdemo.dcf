@@ -1,0 +1,12 @@
+name: networkdemo
+title: NetworkDemo
+username: alestest
+account: alestest
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9382038
+bundleId: 8659788
+url: https://alestest.shinyapps.io/networkdemo/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
